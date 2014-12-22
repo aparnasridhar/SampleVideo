@@ -13,6 +13,7 @@
 		D0E1FB621A47D3A60070C9AE /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D0E1FB611A47D3A60070C9AE /* Images.xcassets */; };
 		D0E1FB651A47D3A60070C9AE /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = D0E1FB631A47D3A60070C9AE /* LaunchScreen.xib */; };
 		D0E1FB711A47D3A60070C9AE /* SampleVideoTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0E1FB701A47D3A60070C9AE /* SampleVideoTests.swift */; };
+		D0E1FB7D1A47DF1C0070C9AE /* cat.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = D0E1FB7A1A47DCD10070C9AE /* cat.mp4 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +37,7 @@
 		D0E1FB6A1A47D3A60070C9AE /* SampleVideoTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SampleVideoTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		D0E1FB6F1A47D3A60070C9AE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		D0E1FB701A47D3A60070C9AE /* SampleVideoTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SampleVideoTests.swift; sourceTree = "<group>"; };
+		D0E1FB7A1A47DCD10070C9AE /* cat.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = cat.mp4; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 		D0E1FB4C1A47D3A60070C9AE = {
 			isa = PBXGroup;
 			children = (
+				D0E1FB7A1A47DCD10070C9AE /* cat.mp4 */,
 				D0E1FB571A47D3A60070C9AE /* SampleVideo */,
 				D0E1FB6D1A47D3A60070C9AE /* SampleVideoTests */,
 				D0E1FB561A47D3A60070C9AE /* Products */,
@@ -192,6 +195,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D0E1FB7D1A47DF1C0070C9AE /* cat.mp4 in Resources */,
 				D0E1FB601A47D3A60070C9AE /* Main.storyboard in Resources */,
 				D0E1FB651A47D3A60070C9AE /* LaunchScreen.xib in Resources */,
 				D0E1FB621A47D3A60070C9AE /* Images.xcassets in Resources */,
